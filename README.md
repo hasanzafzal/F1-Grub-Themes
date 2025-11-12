@@ -1,6 +1,5 @@
 # F1-Grub-Themes
-FIA Formula One World Championship teams GRUB themes 
-
+_FIA Formula One World Championship teams GRUB themes_
 
 **What are these?**
 GRUB is a bootloader commonly used in GNU/Linux operating systems. A bootloader is simply a program that finds and boots up your operating system. An operating system is a program that allows you to interact with your computer (For example: GNU/Linux, MacOS, Windows).
@@ -10,7 +9,7 @@ On 11 November 2025, I started work on my first GRUB theme, Scuderia Ferrari HP 
 Later on, a friend of mine, asked about this theme. He isn't much of a f1 fan but he has a DELL laptop,so I decided to write GRUB themes of the Mclaren formula 1 team of which DELL Technologies is a sponsor and partner. 
 
 
-For installation you may consult Youtube tourotials or Chatgpt as installation may vary on different distros.
+For **installation** you may consult Youtube tourotials or Chatgpt as installation may vary on different distros.
 
 
 **Disclaimer!**
