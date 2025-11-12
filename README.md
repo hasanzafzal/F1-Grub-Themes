@@ -8,7 +8,7 @@ GRUB is a bootloader commonly used in GNU/Linux operating systems. A bootloader 
 
 How this is started?
 
-On 11 November 2025, I started work on my first GRUB theme, Scuderia Ferrari HP GRUB Theme.This was mainly for my personal use on my hp laptop (HP Probook 440 g11).I myself needed this after I decided to dual-boot my laptop with fedora 43 and Windows 11 and disliked the default grub DOS command line look.
+On 11 November 2025, I started work on my first GRUB theme, Scuderia Ferrari HP GRUB Theme. This was mainly for my personal use on my hp laptop (HP Probook 440 g11). I myself needed this after I decided to dual-boot my laptop with fedora 43 and Windows 11 and disliked the default grub DOS command line look.
 Later on, a friend of mine, asked about this theme. He isn't much of a f1 fan but he has a DELL laptop,so I decided to write GRUB themes of the Mclaren formula 1 team of which DELL Technologies is a sponsor and partner. 
 
 
